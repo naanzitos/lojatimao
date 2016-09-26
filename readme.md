@@ -1,22 +1,16 @@
-Bem vindo ao programa loja do timão, este programa foi desenvolvido por:
-			*************************
-			*    Equipe 4WARE:	* 
-			*    Thiago Jorge	*
-			*    André Guilherme	*		
-			*    Matheus Baldi	*
-			*    Wellington Renan	*
-			*			*
-			********** ** ***********
-/---------------------------------------------------------------------/
-O programa loja do Timão traz diversos recursos pra você que é campeão:
-/---------------------------------------------------------------------/
 No primeiro menu, encontra-se as opções principais do programa:
 [1] - Gerência de Clientes
+
 [2] - Gerência de Estoque
+
 [3] - Efetuação de Compras
+
 [4] - Histórico/Relatórios
+
 [S] - Sair
+
 Também estão disponíveis um contador de clientes cadastrados, um contador de produtos cadastrados e um contador de lucros totais neste menu.
+
 
 Observações importantes sobre o programa:
 1° - Esse programa foi inteiramente desenvolvido em interface de texto, não é possível o uso do mouse.
